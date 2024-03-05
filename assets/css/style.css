@@ -211,7 +211,7 @@ a.disabled {
 .globe>div {
     width: 200%;
     height: 100%;
-    background: url(/assets/images/globe.jpg);
+    background: url('../images/globe.jpg');
     background-size: cover;
     animation: spin 30s linear alternate infinite;
 }
